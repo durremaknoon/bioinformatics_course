@@ -188,5 +188,5 @@ x <- cars$new_speed
 ggplot(cars, aes(new_speed, dist)) + geom_point() + geom_smooth(method='lm', formula="y~0+x+I(x^2)") + labs(title ="Average reaction time for driver to start breaking", x="New Speed in seconds", y="Distance in feet")
 ```
 
-![](Durr-e-Maknoon_Tariq_9507_Advanced_Bioinformatics_Assignment_2019_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![](https://github.com/durremaknoon/bioinformatics_course/blob/master/TASK7P~1.PNG)
 
