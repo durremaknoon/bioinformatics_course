@@ -146,7 +146,7 @@ ggplot(cars, aes(x=speed, y=dist)) +
   labs(title='Linear relationship between speed and the breaking distance', x='Speed in mph', y='Breaking Distance in feet')
 ```
 
-![](Durr-e-Maknoon_Tariq_9507_Advanced_Bioinformatics_Assignment_2019_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
+![](https://github.com/durremaknoon/bioinformatics_course/blob/master/TASK6P~1.PNG)
 
 ## Task 7 (Part 1)
 
