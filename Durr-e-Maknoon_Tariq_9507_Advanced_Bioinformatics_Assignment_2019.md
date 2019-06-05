@@ -97,7 +97,7 @@ Gear <- as.factor(mtcars$gear)
 ggplot(mtcars, aes(x=Gear, y=mpg, fill=Gear)) + geom_boxplot(alpha=0.3)
 ```
 
-![](Durr-e-Maknoon_Tariq_9507_Advanced_Bioinformatics_Assignment_2019_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![]https://github.com/durremaknoon/bioinformatics_course/edit/master/TASK4~1.PNG
 
 
 ## Task 5
